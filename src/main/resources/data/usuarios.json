@@ -1,0 +1,38 @@
+[
+  {
+    "run": "199608584",
+    "nombre": "Abraham",
+    "apellidos": "Herrera",
+    "correo": "ab.herreraa@duoc.cl",
+    "password": "admin123",
+    "fechaNacimiento": "1998-11-13",
+    "tipoUsuario": "administrador",
+    "region": "Región Metropolitana de Santiago",
+    "comuna": "Puente alto",
+    "direccion": "Cabo virgenes 2178"
+  },
+  {
+    "run": "179654326",
+    "nombre": "Matías",
+    "apellidos": "Reyes Contreras",
+    "correo": "matias.reyes@luminahome.cl",
+    "password": "vendedor123",
+    "fechaNacimiento": "1995-09-03",
+    "tipoUsuario": "vendedor",
+    "region": "Valparaíso",
+    "comuna": "Viña del Mar",
+    "direccion": "3 Norte 456"
+  },
+  {
+    "run": "203456786",
+    "nombre": "Camila",
+    "apellidos": "Ibáñez Rojas",
+    "correo": "camila.ibanez@gmail.com",
+    "fechaNacimiento": "1998-01-20",
+    "tipoUsuario": "cliente",
+    "region": "Biobío",
+    "comuna": "Concepción",
+    "direccion": "Los Carrera 2340",
+    "password": "cliente123"
+  }
+]

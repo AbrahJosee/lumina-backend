@@ -1,0 +1,18 @@
+[
+  {
+    "id": "techo",
+    "nombre": "Lámparas de Techo"
+  },
+  {
+    "id": "smart",
+    "nombre": "Iluminación Smart"
+  },
+  {
+    "id": "exterior",
+    "nombre": "Iluminación Exterior"
+  },
+  {
+    "id": "adornos",
+    "nombre": "Adornos"
+  }
+]
